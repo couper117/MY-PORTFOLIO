@@ -156,8 +156,46 @@ img {
 
 
 /*=============== HEADER & NAV ===============*/
+.header {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  background: linear-gradient(180deg,
+              var(--body-color)60%,
+              hsla(240, 100%, 2%, .0)100%);
+  z-index: var(--z-fixed);
+}
 
+.nav {
+  display: flex;
+  justify-content: space-between;
+  padding-block: 1rem;
+}
 
+.nav__logo {
+  font-family: var(--second-font);
+  font-weight: var(--font-semi-bold);
+  color: var(--title-color);
+  align-self: flex-start;
+  transition: color .4s;
+}
+
+.nav__logo:hover {
+  color: var(--first-color);
+}
+
+.nav__list {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  row-gap: .5rem;
+}
+.nav__link {
+  color: var(--text-color);
+  font: var(--font-semi-bold) var(--small-font-size));
+  transition: color .4s;
+}
 /* Active link */
 
 
