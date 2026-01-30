@@ -1,17 +1,17 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [Kenny Kelvin]! 👋
 
-### 🚀 [Your Job Title, e.g. Full Stack Developer | UI/UX Enthusiast]
+### 🚀 [Full-stack Developer]
 
-I am a passionate developer from [Location] looking to solve real-world problems with code. I’m currently learning **[New Technology]** and working on **[Current Side Project]**.
+I am a passionate developer from RWANDA looking to solve real-world problems with code. I’m currently learning **[New Technology]** and working on **[Current Side Project]**.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 * **Languages:** Python, JavaScript, TypeScript, SQL
-* **Frontend:** React, Tailwind CSS, Next.js
-* **Backend:** Node.js, Express, Django
-* **Tools:** Git, Docker, AWS, Figma
+* **Frontend:** React, Tailwind CSS
+* **Backend:** Node.js, Express
+* **Tools:** Git, AWS, Figma
 
 ---
 
@@ -41,15 +41,15 @@ I am a passionate developer from [Location] looking to solve real-world problems
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
-  <a href="https://instagram.com/your-username" target="blank">
+  <a href="https://instagram.com/i.k.k.75" target="blank">
     <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:ikennykelvin75@gmail.com">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
-  <a href="https://your-portfolio.com/contact" target="blank">
+  <a href="0795817707" target="blank">
     <img align="center" src="https://img.shields.io/badge/Contact_Form-100000?style=for-the-badge&logo=carrd&logoColor=white" alt="Contact Page" />
   </a>
 </p>
